@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ComboCompleto {
 
     // Função para verificar se o cliente contratou um combo completo
     public static String verificarComboCompleto(String[] servicosContratados) {
